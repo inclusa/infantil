@@ -2,6 +2,7 @@
 
 [Curriculum en PDF](http://www.docv.gva.es/datos/2008/04/03/pdf/2008_3838.pdf)
 
+[Document pont infantil](http://cefire.edu.gva.es/mod/forum/discuss.php?d=129905)
 
 ## Artícle 3: Objectius del cicle
 
@@ -102,11 +103,20 @@ e) L’adquisició d’hàbits adequats per a evitar situacions de perill i la s
 
 
 ### Criteris d’avaluació
-1. Utilitzar el cos com a instrument de relació amb el món i com a 
-vehicle per a descobrir els objectes d’aprenentatge a través de la percepció i de la sensació.
+
+1. Utilitzar el cos com a instrument de relació amb el món i com a vehicle per a descobrir els objectes d’aprenentatge a través de la percepció i de la sensació.
 2. Aplicar unes actituds bàsiques per a la convivència en les interrelacions humanes que repercutisquen en un ajust de la pròpia imatge corporal.
 3. Tindre cura del cos i de la higiene corporal, fomentant hàbits i actituds que ajuden a mantindre una adequada salut mental i física.
 4. Donar mostra del coneixement personal en la construcció de la identitat i en la pertinença a un grup social, manifestant sentiments i normes de relació social.
 
 
+### Indicadors d'èxit
 
+A. Criteri d'avaluació 1
+
+1.1. Utilitza el cos com a instrument de relació amb el món.
+1.2. Descobreix els objectes d'aprenentatge a través de la percepció i de la sensació.
+
+B. Criteri d'avaluació 2
+
+2.1. Aplicar actituds bàsiques per a la convivència en interrelacions humanes.
