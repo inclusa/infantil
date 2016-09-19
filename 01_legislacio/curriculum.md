@@ -1,3 +1,8 @@
+% Recopilació curricular
+% Educació Infantil
+% Setembre 2016
+
+
 # Curriculum Infantil LOE
 
 
@@ -20,6 +25,7 @@ k) Valorar les diverses manifestacions artístiques.
 l) Descobrir les tecnologies de la informació i les comunicacions.
 
 
+\newpage
 
 ## Artícle 4: Àrees
 
@@ -32,8 +38,9 @@ l) Descobrir les tecnologies de la informació i les comunicacions.
 
 S'entén per currículum per al segon cicle de l'Educació Infantil els objectius, els continguts, la metodologia i els criteris d'avaluació.
 
-# ANNEX
+\newpage
 
+# ANNEX
 
 ## 1. El coneixement de si mateix i autonomia personal
 
@@ -49,6 +56,8 @@ S'entén per currículum per al segon cicle de l'Educació Infantil els objectiu
 8. Adquirir hàbits relacionats amb el benestar, la seguretat personal, la higiene i la salut, així com d’orde, constància i organització relacionats amb les diverses tasques.
 9. Prendre la iniciativa, planificar i seqüenciar la pròpia acció per a resoldre tasques senzilles i problemes de la vida quotidiana, reconeixent els seus límits i possibilitats, i buscant la col·laboració necessària.
 10. Desenrotllar actituds i hàbits de col·laboració i ajuda articulant el seu propi comportament amb les necessitats, demandes, requeriments i explicacions dels altres. 
+
+\newpage
 
 ### Continguts
 
@@ -66,6 +75,8 @@ b) Sensacions i percepcions. Els sentits i les seues funcions.
 c) La confiança en les possibilitats i capacitats pròpies per a realitzar les tasques. Les necessitats bàsiques del cos.
 d)Valoració i actitud positiva davant de les demostracions de sentiments, d’emocions i de vivències pròpies i dels altres, i el seu control gradual.
 e) Acceptació i valoració ajustada i positiva de la pròpia identitat i de les seues possibilitats i limitacions, així com de les diferències pròpies i dels altres evitant discriminacions.
+
+\newpage
 
 #### Bloc 2. El joc i el moviment
 
@@ -89,6 +100,8 @@ el menjar, etc.
 c) El coneixement i l’ús dels instruments, tècniques, habilitats i seqüències en activitats pròpies de la vida quotidiana.
 d) La interacció i col·laboració amb actituds positives per a establir relacions d’afecte amb els altres.
 
+\newpage
+
 #### Bloc 4. L’atenció personal i la salut
 
 Els continguts que integren este bloc són:
@@ -106,6 +119,8 @@ e) L’adquisició d’hàbits adequats per a evitar situacions de perill i la s
 3. Tindre cura del cos i de la higiene corporal, fomentant hàbits i actituds que ajuden a mantindre una adequada salut mental i física.
 4. Donar mostra del coneixement personal en la construcció de la identitat i en la pertinença a un grup social, manifestant sentiments i normes de relació social.
 
+
+\newpage
 
 ### Indicadors d'èxit
 
@@ -130,6 +145,8 @@ D. Criteri d'avaluació 4
 4.2. Manifesta sentiments i normes de relació socials.
 
 
+\newpage
+
 ## 2. Medi físic, natural, social i cultural
 
 ### Objectius
@@ -145,6 +162,8 @@ D. Criteri d'avaluació 4
 9. Mostrar interés i curiositat pels canvis a què estan sotmesos els elements de l’entorn per a identificar alguns factors que els influïxen. 
 10. Descobrir aquells elements físics, naturals, socials i culturals que a través de TIC amplien el coneixement del món a què pertany.
 11. Conéixer, representar i anomenar, a partir de l’observació, la descripció, la manipulació i el joc, els objectes de la vida quotidiana amb formes geomètriques planes: cercle, quadrat, rectangle i triangle i formes geomètriques de volum: esfera i cub.
+
+\newpage
 
 ### Continguts
 
@@ -178,6 +197,8 @@ i) L’estimació de la duració d’algunes rutines de la vida quotidiana en re
 j) El coneixement de formes geomètriques planes i de cossos geomètrics. L’adquisició de nocions bàsiques d’orientació i situació en 
 l’espai.
 
+\newpage
+
 #### Bloc 2. L’acostament a la naturalesa
 
 Els continguts que integren este bloc són:
@@ -192,7 +213,9 @@ g) L’experimentació i el descobriment de la utilitat i aprofitament d’anima
 h) L’exploració i coneixement de les interaccions i relacions entre animals, entre animals i plantes i entre sers vius i el seu entorn.
 i) El gaudi al realitzar activitats en contacte amb la naturalesa.
 
-Bloc 3. La cultura i vida en societat
+\newpage
+
+### Bloc 3. La cultura i vida en societat
 
 Els continguts que integren este bloc són:
 
@@ -205,6 +228,7 @@ g) La presa de consciència dels servicis relacionats amb el consum.
 h) El coneixement d’altres models de vida i de cultures en el propi entorn i el descobriment d’altres societats a través dels mitjans de comunicació.
 i) La participació en manifestacions culturals, en la vida social, en les festes, en manifestacions artístiques, costums i celebracions populars.
 
+\newpage
 
 ### Criteris d’avaluació
 
@@ -230,6 +254,8 @@ A. Criteri d'avaluació 1
 1.8. Fa raonaments numèrics en tasques quotidianes
 1.9. Fa resolucions de problemes senzills
 
+\newpage
+
 B. Criteri d'avaluació 2
 
 2.1. Ubilitza el coneixement del medi físic, natural, social i cultura com a mard en què estan situats els objectes d'aprenentatge amb què interactua.
@@ -243,6 +269,8 @@ C. Criteri d'avaluació 3
 D. Criteri d'avaluació 4
 
 
+\newpage
+
 ## 3.  Els llenguatges: comunicació i representació
 
 ### Objectius
@@ -255,6 +283,8 @@ D. Criteri d'avaluació 4
 6. Expressar sentiments, desitjos i idees per mitjà de l’expressió artística a través dels distints llenguatges.
 7. Interpretar i produir imatges com una forma de comunicació i de gaudi, a fi de descobrir i identificar els elements bàsics de l’expressió artística.
 8. Aplicar hàbits d’higiene i rutines en l’ús del material per al desenrotllament de l’expressió artística, que faciliten la consecució de l’autonomia personal i la col·laboració amb el grup social a què pertanyen. 
+
+\newpage
 
 ## Continguts
 
@@ -279,6 +309,8 @@ Els continguts que integren este bloc són:
 2.3. Aproximació a la literatura
 2.1. Escoltar, parlar i conversar 
 
+\newpage
+
 ### Bloc 3. La llengua com a instrument d’aprenentatge.
 
 ### Bloc 4. El llenguatge audiovisual i tecnologies de la informació i comunicació.
@@ -298,6 +330,8 @@ e) L’interés, el respecte i la valoració per les elaboracions plàstiques pr
 f) El descobriment de la diversitat d’obres plàstiques que es troben presents a l’entorn i que el xiquet i la xiqueta són capaços de reproduir.
 g) El manteniment i atenció d’utensilis plàstics bàsics que s’utilitzen per a expressar el llenguatge plàstic.
 h) La consolidació de la motricitat per a aconseguir el moviment precís en la producció plàstica.
+
+\newpage
 
 ### Bloc 6. El llenguatge musical.
 
@@ -322,6 +356,8 @@ e) L’interés i la iniciativa per a participar en representacions de dansa i d
 f) La vivència del llenguatge corporal amb intencionalitat comunicativa i expressiva en activitats motrius del propi cos.
 g) La imitació i representació de situacions, de personatges, d’històries senzilles, reals i evocades individualment i en grups xicotets.
 
+
+\newpage
 
 ## Criteris d’avaluació
 
