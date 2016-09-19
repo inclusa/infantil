@@ -1,8 +1,5 @@
 # Curriculum Infantil LOE
 
-[Curriculum en PDF](http://www.docv.gva.es/datos/2008/04/03/pdf/2008_3838.pdf)
-
-[Document pont infantil](http://cefire.edu.gva.es/mod/forum/discuss.php?d=129905)
 
 ## Artícle 3: Objectius del cicle
 
@@ -364,3 +361,56 @@ C. Criteri d'avaluació 3
 D. Criteri d'avaluació 4
 
 4.1. Mostra interés pels textos literaris i pels escrits presents a l'aula i en l'entorn pròxim.
+4.2. S'inicia en l'ús,en la comprensió de les finalitat i en el coneixement d'algunes característiques del codi.
+4.3. S'interessa i participa en les situacions de lectura i escriptura que es produeixen a l'aula.
+
+E. Criteri d'avaluació 5
+
+5.1. Escolta, diferents textos tradicionals i contemporanis com a font de gaudi i d'aprenentatge.
+5.2. comprén diferents textos tradicional i contemporanis com a font de gaudi d'aprenentatge.
+5.3. Recita i representa diferents textos tradicionals i contemporanis com a font de gaudi i d'aprenentatge.
+5.4. Valora el llibre i altres suports textuals i la biblioteca com a font d'informació, entreteniment i fruïció.
+
+F. Criteri d'avaluació 6
+
+6.1. S'inicia en l'ús dels diferents mitjans d'informació i comunicació sonors, visuals i audiovisuals.
+6.2. Aprén a utilitzar-los com a mità per desenrotllar les habilitats comunicatives i artístiques i per a aprendre a aprendre.
+
+G. Criteri d'avaluació 7
+
+7.1. Iniciar-se en l'ús oral d'una llengua estrangera per a comunicar-se en activitats dins de l'aula.
+7.2. Mostrar interés i satisfacció per participar en els intercanvis comunicatius.
+
+H. Criteri d'avaluació 8
+
+8.1. Aprén el llenguatge oral a través de l'intercanvi verbal que els xiquets i les xiquetes realitzen entre ells i amb altres membres de la societat.
+8.2. Aprén el llenguatge escrit a través de l'intercanvi verbal que els xiquets i les xiquetes realitzaen entre ells i amb altres membres de la societat.
+8.3. Controla i regula els intercanvis socials en contextos comunicatius diversos.
+
+
+I. Criteri d'avaluació 9
+
+9.1. Manisfesta les experiències que va vivien a través del llenguatge plàstic.
+9.2. Utilitza el material plàstic amb precisió.
+9.3. Cuida i neteja el material plàstic.
+9.4. Respeta i disfruta de les produccions pròpies i dels altres.
+
+J. Criteri d'avaluació 10
+
+10.1. Utilitza l'educació vocal per a expressar el repertori de cultura musical i d'expressió corporal que la societat transmet.
+10.2. Utilitza l'educació rítmica per a expressar el repertori de cultura musical i d'expressió corporal que la societat transmet.
+10.3. Utilitza l'educació auditiva per a expressar el repertori de cultura musica i d'expressió corporal que la societat transmet.
+10.4. Utilitza l'educació d'expressió corporal per a expressar el repertori de cultura musica i d'expressió corporal que la societat transmet.
+10.5. Descobreix el repertori de cultur musical i d'expressió corporal que la societat transmet com a mitjà en la busca de la pròpia identitat.
+
+K. Criteri d'avaluació 11
+
+11.1. Expressa i manifesta la sensibilitat i presa de consciència de si mateix en postures, gestos i accions de la vida quotidiana que formen part del llenguatge corporal.
+11.2. Comunica, crea i manifesta la sensibilitat i presa de consciència de si mateix en postures, gestos i accions de la vida quotiana que formen part del llenguatge corporal.
+11.3. Comoparteix i interactua en la societat en què viu i manifesta la sensibilitat i presa de consciència de si mateix en postures, gestos i accions de la vida quotidiana que formen part del llenguatge corporal.
+
+# Fonts
+
+[Curriculum en PDF](http://www.docv.gva.es/datos/2008/04/03/pdf/2008_3838.pdf)
+
+[Document pont infantil](http://cefire.edu.gva.es/mod/forum/discuss.php?d=129905)
